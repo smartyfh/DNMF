@@ -3,7 +3,7 @@ clc; clear;
 % % load adjacent matrix
 A = csvread('dolphins-edgesMatrix.csv', 1, 1);
 
-% % initialization parameters
+% % initialize parameters
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 alpha = 0.5;
 beta = 0.1;
