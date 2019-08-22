@@ -1,3 +1,3 @@
 # DNMF
 
-Code for "Discrete Overlapping Community Detection with Pseudo Supervision"
+Code in MATLAB for the paper ***Discrete Overlapping Community Detection with Pseudo Supervision***
