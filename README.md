@@ -6,4 +6,4 @@ Code in MATLAB for the paper ***Discrete Overlapping Community Detection with Ps
 
 + Check DNMF.m for the main program
 
-+ Run test.m for a testing
++ Run test.m for testing
