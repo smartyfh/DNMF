@@ -1,3 +1,7 @@
 # DNMF
 
-Code in MATLAB for the paper ***Discrete Overlapping Community Detection with Pseudo Supervision***
+Code in MATLAB for the paper ***Discrete Overlapping Community Detection with Pseudo Supervision*** [ICDM 2019]
+
++ Check DNMF.m for the main program
+
++ Run test.m for a testing
